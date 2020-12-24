@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello Wor12313ld!\n";
+    std::cout << "Hello Wor12313ldsaddas!\n";
 }
 
 // Programı çalıştır: Ctrl + F5 veya Hata Ayıkla > Hata Ayıklamadan Başlat menüsü
